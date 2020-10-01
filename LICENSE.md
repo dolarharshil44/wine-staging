@@ -4,7 +4,7 @@ Wine Staging license
 **Note:** Some files in this repository are provided under a different license.
 Please check the list of exceptions below. Unless stated otherwise all files
 are part of **Wine Staging** and are licensed under the terms of the
-[LGPLv2.1](#gnu-lgpl-version-21), to stay compatible with Wine:
+[LGPLv2.1](#gnu-lgpl-version-21), to stay compatible with Wine :-
 
 ```
 Copyright (C) 2014-2017 the Wine Staging project authors.
@@ -1317,3 +1317,4 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
 ```
+Thank you!
